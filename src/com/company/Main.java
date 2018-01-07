@@ -8,7 +8,7 @@ public class Main {
     //2
       //  FileOperation.printFilesInDirectory("E:\\Torrent");
     //3
-     //   FileOperation.printAllInDirectory("E:\\Torrent");
+        FileOperation.printAllInDirectory("E:\\Torrent");
     //4
      //     FileOperation.searchFile("alma.txt","E:\\");
         //5
